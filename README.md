@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @stefankc
-- 👀 I’m interested in crypto and automations.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on different projects about automation and blockchain.
+
 
 
 <!---
